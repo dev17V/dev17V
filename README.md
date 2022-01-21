@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @dev17V
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-dev17V/dev17V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning Node.Js, and Rust
+- 💞️ I’m looking to collaborate on Windows Exploits
+- 📫 How to reach me 127.0.0.1
