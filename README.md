@@ -1,2 +1,2 @@
-- 🌱 I’m currently learning Node.Js, and Rust.
+- 🌱 I’m currently learning Node.Js, and C++.
 - 💞️ I’m looking to collaborate on Windows Exploits, Botnets, Modding, Pentesting, CTF Challenges, and Hacking Projects.
